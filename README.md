@@ -13,9 +13,6 @@ Tested on Pixel 2 XL Android R, Motorola Moto G4 Plus Android Oreo
 3. Choose your device
 4. Build and Run
 
-## Screenshot
-
-![KotlinToDoList](./KotlinToDOList.png)
 
 ## Contributing
 
