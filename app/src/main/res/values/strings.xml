@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">KotlinToDoList</string>
+    <string name="Title">To Do List</string>
+    <string name="InputHint">Add an Item</string>
+    <string name="AddButton">Add</string>
+    <string name="DeleteButton">Delete</string>
+    <string name="ClearButton">Clear</string>
+    <string name="MyToDoList">My To Do List</string>
 </resources>
